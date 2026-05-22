@@ -68,7 +68,7 @@ Data Analyst 📊 | Python Enthusiast 🐍 | Turning Data into Insights 🚀
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awasthi69&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=awasthi69&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Data Analyst 📊 | Python Enthusiast 🐍 | Turning Data into Insights 🚀
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi69&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=awasthi69&layout=compact&theme=tokyonight" />
 </p>
 
 ---
