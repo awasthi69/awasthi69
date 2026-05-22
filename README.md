@@ -6,7 +6,7 @@ Data Analyst 📊 | Python Enthusiast 🐍 | Turning Data into Insights 🚀
 
 <p align="center">
   <a href="https://github.com/awasthi69">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=awasthi69&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ Data Analyst 📊 | Python Enthusiast 🐍 | Turning Data into Insights 🚀
 
 🚀 Explore my portfolio website:
 
-🔗https://maniportfolio10.netlify.app/ 
+🔗 https://maniportfolio10.netlify.app/
 
 ---
 
@@ -68,15 +68,15 @@ Data Analyst 📊 | Python Enthusiast 🐍 | Turning Data into Insights 🚀
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awasthi69&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=awasthi69&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi69&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Data Analyst 📊 | Python Enthusiast 🐍 | Turning Data into Insights 🚀
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=awasthi69&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
