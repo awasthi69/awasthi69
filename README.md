@@ -26,7 +26,7 @@ Data Analyst 📊 | Python Enthusiast 🐍 | Turning Data into Insights 🚀
 
 🚀 Explore my portfolio website:
 
-🔗 maniportfolio10.netlify.app 
+🔗https://maniportfolio10.netlify.app/ 
 
 ---
 
