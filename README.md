@@ -68,15 +68,15 @@ Data Analyst 📊 | Python Enthusiast 🐍 | Turning Data into Insights 🚀
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awasthi69&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awasthi69&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=awasthi69&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=awasthi69&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi69&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi69&layout=compact&theme=tokyonight" />
 </p>
 
 ---
