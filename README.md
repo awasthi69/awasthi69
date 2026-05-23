@@ -27,7 +27,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=awasthi69&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/awasthi69)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-34d399?style=for-the-badge)](https://maniportfolio10.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-34d399?style=for-the-badge)](https://awasthi69.github.io/awasthi69-awasthi69.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parashmani-awasthi-95b002375/)
 
 </div>
