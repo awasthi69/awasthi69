@@ -38,27 +38,21 @@
 <!--                       ABOUT ME                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=38BDF8&width=600&lines=Initializing+profile.py...;Loading+ParashmaniAwasthi+class...;Skills+%3D+%5BPython%2C+SQL%2C+Power+BI%2C+Tableau%5D;Goal+%3D+%22Build+impactful+data-driven+solutions%22)](https://git.io/typing-svg)
+## 👋 About Me
 
-```python
-class ParashmaniAwasthi:
-    name       = "Parashmani Awasthi"
-    role       = "Data Analyst"
-    location   = "India 🇮🇳"
-    skills     = ["Python", "SQL", "Power BI",
-                  "Tableau", "Pandas", "NumPy"]
-    learning   = ["Machine Learning",
-                  "Advanced Analytics"]
-    goal       = "Build impactful data-driven solutions"
-    fun_fact   = (
-        "Without data, you're just another"
-        " person with an opinion."
-    )
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=2000&color=1D9E75&width=600&lines=Turning+raw+data+into+real+insights...;Passionate+about+data-driven+decisions.;Building+dashboards+that+actually+matter.;Always+learning%2C+always+growing.)](https://git.io/typing-svg)
+
+| | |
+|---|---|
+| 👤 **Name** | Parashmani Awasthi |
+| 📊 **Role** | Data Analyst |
+| 📍 **Location** | India 🇮🇳 |
+| 🛠️ **Skills** | Python · SQL · Power BI · Tableau · Pandas · NumPy |
+| 🧠 **Learning** | Machine Learning · Advanced Analytics |
+| 🎯 **Goal** | Build impactful data-driven solutions |
+| 💡 **Fun Fact** | *"Without data, you're just another person with an opinion."* |
 
 - 📊 Aspiring Data Analyst passionate about solving real-world problems  
 - 🛠️ Skilled in **Python · SQL · Excel · Power BI · Data Visualization**  
