@@ -40,10 +40,12 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" />
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=38BDF8&width=600&lines=Initializing+profile.py...;Loading+ParashmaniAwasthi+class...;Skills+%3D+%5BPython%2C+SQL%2C+Power+BI%2C+Tableau%5D;Goal+%3D+%22Build+impactful+data-driven+solutions%22)](https://git.io/typing-svg)
 
 ```python
-ParashmaniAwasthi:
+class ParashmaniAwasthi:
     name       = "Parashmani Awasthi"
     role       = "Data Analyst"
     location   = "India 🇮🇳"
@@ -52,8 +54,10 @@ ParashmaniAwasthi:
     learning   = ["Machine Learning",
                   "Advanced Analytics"]
     goal       = "Build impactful data-driven solutions"
-    fun_fact   = "Without data, you're just another
-                  person with an opinion."
+    fun_fact   = (
+        "Without data, you're just another"
+        " person with an opinion."
+    )
 ```
 
 - 📊 Aspiring Data Analyst passionate about solving real-world problems  
