@@ -171,7 +171,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parashmani%20Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parashmani-awasthi-95b002375/)
 [![Gmail](https://img.shields.io/badge/Gmail-awasthiparash333%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awasthiparash333@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-awasthi69-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awasthi69)
-[![Portfolio](https://img.shields.io/badge/Portfolio-maniportfolio10.netlify.app-34d399?style=for-the-badge&logo=netlify&logoColor=white)](https://maniportfolio10.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/https://awasthi69.github.io/awasthi69-awasthi69.github.io/-34d399?style=for-the-badge&logo=netlify&logoColor=white)](https://maniportfolio10.netlify.app/)
 
 </div>
 
