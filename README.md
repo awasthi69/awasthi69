@@ -48,7 +48,7 @@
 |---|---|
 | 👤 **Name** | Parashmani Awasthi |
 | 📊 **Role** | Data Analyst |
-| 📍 **Location** | India 🇮🇳 |
+| 📍 **Location** | NEPAL 🇳🇵 |
 | 🛠️ **Skills** | Python · SQL · Power BI · Tableau · Pandas · NumPy |
 | 🧠 **Learning** | Machine Learning · Advanced Analytics |
 | 🎯 **Goal** | Build impactful data-driven solutions |
