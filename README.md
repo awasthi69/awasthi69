@@ -1,96 +1,265 @@
-<div align="center"> <!-- ══════════════════════════════════════════════════════════ --> <!-- ANIMATED HEADER BANNER --> <!-- ══════════════════════════════════════════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=180&section=header&text=Parashmani%20Awasthi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Python%20%7C%20MS%20Certified&descAlignY=58&descSize=16&animation=fadeIn" /> </div> <!-- ══════════════════════════════════════════════════════════ --> <!-- TYPING ANIMATION --> <!-- ══════════════════════════════════════════════════════════ --> <div align="center">
+# 👋 Hey, I'm Parashmani Awasthi
 
-Show Image
-
-</div>
-<!-- ══════════════════════════════════════════════════════════ --> <!-- BADGES / STATUS --> <!-- ══════════════════════════════════════════════════════════ --> <div align="center">
-
-Show Image Show Image Show Image Show Image
-
-</div>
-👋 About Me
-
-Data Analyst with hands-on internship experience building Power BI dashboards, automating recurring reports, and validating multi-source datasets with SQL and Python.
-
-	
-👤 Name	Parashmani Awasthi
-📊 Role	Data Analyst
-📍 Location	Nepal 🇳🇵 — Open to Relocation / Remote
-🎓 Certified	Microsoft Certified: Power BI Data Analyst Associate
-🛠️ Core Stack	Power BI (DAX, Power Query) · SQL (MySQL) · Python (Pandas, NumPy) · Excel
-🧠 Also Building With	JavaScript · HTML/CSS · React.js · Figma
-🎯 Goal	Help organizations make smarter, data-backed decisions
-📊 Data Analyst with hands-on internship experience building Power BI dashboards and automating recurring reports
-🧹 Skilled at validating and cleaning multi-source datasets with SQL and Python
-🏗️ Delivered a 10,000+ record ETL pipeline and star-schema data model from the ground up
-📈 Passionate about Business Intelligence, KPI reporting, and dashboard storytelling
-📩 Open to Data Analyst, Junior Data Analyst, Business Analyst, and Data/Reporting roles
-🛠️ Tech Stack & Tools
-<div align="center">
-💻 Core Languages & Tools
-
-Show Image Show Image Show Image Show Image Show Image Show Image
-
-📊 Data Analysis & Visualization
-
-Show Image Show Image Show Image Show Image
-
-🎨 Design
-
-Show Image Show Image
-
-</div>
-💼 Experience
-<div align="center">
-Role	Company	Duration
-📊 Data Analyst Intern	Zetheta Algorithms Pvt. Ltd. (Remote, India)	Jan 2026 – Feb 2026
-🎨 Graphic Designer Intern	InAmigos Foundation (Remote, India)	Jul 2025 – Aug 2025
-</div>
-
-Data Analyst Intern — Zetheta Algorithms
-
-Cleaned and validated multi-source datasets using SQL (joins, window functions) and Python (Pandas), gathering requirements directly from stakeholders
-Built and automated interactive Power BI & Excel dashboards using Power Query and DAX-based KPI measures
-Ran statistical trend and pattern analysis to surface business-relevant insights for dashboard storytelling
-Documented data models and methodologies, communicating findings through structured, decision-ready reporting
-
-Graphic Designer Intern — InAmigos Foundation
-
-Designed 15+ data-driven campaign visual assets using Figma, Canva, and Photoshop — a foundation transferable to dashboard and report design
-📂 Featured Projects
-<div align="center">
-Project	Description	Stack
-📊 Business Intelligence Dashboard	Star-schema data model + ETL pipeline processing 10,000+ records, interactive Power BI dashboard with DAX/KPIs, advanced Excel workbooks	Power BI Python SQL Excel
-🎬 Netflix AI-Augmented Recommendation System	Data pipeline integrating TMDb & OMDb APIs with a 3-person team, ML-driven personalized recommendations, React.js frontend	Python ML APIs React.js
-</div>
-🎓 Certifications
-✅ Microsoft Certified: Power BI Data Analyst Associate
-✅ Data Analyst — Big 4 Ready — OneRoadmap
-✅ Data Analyst Certification — OneRoadmap
-✅ SQL Certification — OneRoadmap
-✅ Excel Certification — OneRoadmap
-✅ Advance Excel — Digital Pathshala
-✅ Frontend Development (HTML, CSS, JavaScript, React.js) — OneRoadmap
-📈 GitHub Stats
-<div align="center"> <a href="https://github.com/awasthi69"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=awasthi69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=a78bfa" /> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=awasthi69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e" /> </a> <br/> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=awasthi69&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f472b6&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e" width="600" /> </a> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=awasthi69&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" /> </div>
-📉 Contribution Graph
 <div align="center">
 
-Show Image
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+into+Useful+Insights;Building+Dashboards+%26+Data+Pipelines;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<!-- Optional: a snake animation of your contribution graph — widely used, subtle, not gimmicky. Requires a one-time GitHub Action setup (Platane/snk) to generate the SVG. Ask me if you want this set up. <img src="https://raw.githubusercontent.com/awasthi69/awasthi69/output/github-contribution-grid-snake.svg" /> --> </div>
-📫 Connect With Me
-<div align="center">
+<br/>
 
-Show Image Show Image Show Image Show Image
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/parashmani-awasthi-95b002375/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:info.parash00@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
-<div align="center">
-⚡ Fun Fact
 
-"Without data, you're just another person with an opinion." — W. Edwards Deming
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Data Analyst** passionate about transforming raw data into meaningful insights and decision-ready dashboards.
+
+I enjoy working across the complete data journey — from **data cleaning and ETL** to **SQL analysis, data modeling, visualization, and business storytelling**.
+
+* 📊 Building interactive **Power BI dashboards**
+* 🐍 Analyzing data with **Python, Pandas & NumPy**
+* 🗄️ Writing analytical queries using **SQL & MySQL**
+* 🔄 Designing **ETL pipelines & star-schema data models**
+* 📈 Creating KPI-driven business reports
+* 🤝 Comfortable working with stakeholders and cross-functional teams
+* 🌎 Based in **Nepal** — Open to **Relocation / Remote**
+
+> **My goal:** Turn data into insights that help people make better decisions.
+
+---
+
+## 🚀 What I Do
+
+```text
+        RAW DATA
+            │
+            ▼
+    ┌─────────────────┐
+    │ Data Cleaning   │
+    │ SQL + Python    │
+    └────────┬────────┘
+             │
+             ▼
+    ┌─────────────────┐
+    │ ETL & Modeling  │
+    │ Star Schema     │
+    └────────┬────────┘
+             │
+             ▼
+    ┌─────────────────┐
+    │ Power BI / Excel│
+    │ Dashboards      │
+    └────────┬────────┘
+             │
+             ▼
+       📊 INSIGHTS
+             │
+             ▼
+      🎯 DECISIONS
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics & BI
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### 🗄️ Data & Databases
+
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-Pipelines-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Star%20Schema-Data%20Modeling-blue?style=for-the-badge"/>
+</p>
+
+### 🐍 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🌐 Web & Design
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Business Intelligence Dashboard
+
+**Power BI · Python · SQL · Excel**
+
+> Built an end-to-end analytics solution processing **10,000+ records** from multiple sources.
+
+**Highlights**
+
+* 🔄 ETL pipeline using Python, Pandas & NumPy
+* 🗄️ Star-schema data model
+* 🧮 SQL-based analysis
+* 📊 Interactive Power BI dashboard
+* 🎯 DAX measures & KPI tracking
+* 📈 Advanced Excel reporting with Pivot Tables and dynamic charts
+
+---
+
+### 🎬 Netflix AI-Augmented Recommendation System
+
+**Python · Machine Learning · APIs · React.js**
+
+> Developed a recommendation system with a **3-person team**, integrating external movie databases and machine-learning techniques.
+
+**Highlights**
+
+* 🤖 Machine-learning based recommendations
+* 🔗 TMDb & OMDb API integration
+* 🐍 Python data pipeline
+* ⚛️ React.js interface
+* 👥 Collaborative development
+
+---
+
+## 💼 Experience
+
+### 📊 Data Analyst Intern — Zetheta Algorithms Private Limited
+
+**Jan 2026 – Feb 2026 | Remote**
+
+* Cleaned and validated multi-source datasets using **SQL and Python/Pandas**
+* Built automated **Power BI and Excel dashboards**
+* Used **Power Query and DAX** for data transformation and KPI reporting
+* Performed trend and pattern analysis across datasets
+* Communicated findings through structured stakeholder reporting
+
+### 🎨 Graphic Designer Intern — InAmigos Foundation
+
+**Jul 2025 – Aug 2025 | Remote**
+
+* Created **15+ data-driven campaign assets**
+* Used Figma, Canva and Photoshop
+* Translated stakeholder feedback into visual storytelling
+
+---
+
+## 🎓 Education
+
+🎓 **B.E. in Computer Engineering**
+Roorkee Institute of Technology, Roorkee, India
+**2022 – 2026**
+
+📚 **Higher Secondary Education — Science Stream**
+Aishwarya Vidya Niketan, Nepal
+**2020 – 2022**
+
+---
+
+## 🏆 Certifications
+
+🏅 **Microsoft Certified: Power BI Data Analyst Associate**
+
+💻 **Frontend Development Certification**
+HTML · CSS · JavaScript · React.js
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" /> </div>
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📊 My Data Analyst Toolkit
+
+```python
+skills = {
+    "BI": ["Power BI", "DAX", "Power Query", "Excel"],
+    "Data": ["SQL", "MySQL", "ETL", "Star Schema"],
+    "Python": ["Pandas", "NumPy"],
+    "Web": ["JavaScript", "HTML", "CSS", "React"],
+    "Design": ["Figma", "Canva", "Photoshop"],
+    "Tools": ["Git", "GitHub"]
+}
+
+print("Turning data into insights 🚀")
+```
+
+---
+
+## 🌱 Currently
+
+```text
+📚 Learning        → Advanced Data Analytics & BI
+📊 Building        → Data Analytics Projects
+🐍 Improving       → Python + SQL
+🎯 Goal            → Become a high-impact Data Analyst
+🚀 Exploring       → Real-world data problems
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with **data professionals, recruiters, developers, and fellow learners**.
+
+<a href="https://www.linkedin.com/in/parashmani-awasthi-95b002375/">
+<img src="https://img.shields.io/badge/LinkedIn-Parashmani%20Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:info.parash00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-info.parash00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⭐ If you find my projects useful, consider giving them a star!
+
+**Thanks for visiting! 🚀**
+
+</div>
