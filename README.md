@@ -1,4 +1,4 @@
-<div align="center"> <!-- ══════════════════════════════════════════════════════════ --> <!-- ANIMATED HEADER BANNER --> <!-- ══════════════════════════════════════════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parashmani%20Awasthi&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Python%20%7C%20MS%20Certified&descAlignY=62&descSize=18&animation=fadeIn" /> </div> <!-- ══════════════════════════════════════════════════════════ --> <!-- TYPING ANIMATION --> <!-- ══════════════════════════════════════════════════════════ --> <div align="center">
+<div align="center"> <!-- ══════════════════════════════════════════════════════════ --> <!-- ANIMATED HEADER BANNER --> <!-- ══════════════════════════════════════════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=180&section=header&text=Parashmani%20Awasthi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Python%20%7C%20MS%20Certified&descAlignY=58&descSize=16&animation=fadeIn" /> </div> <!-- ══════════════════════════════════════════════════════════ --> <!-- TYPING ANIMATION --> <!-- ══════════════════════════════════════════════════════════ --> <div align="center">
 
 Show Image
 
@@ -10,7 +10,7 @@ Show Image Show Image Show Image Show Image
 </div>
 👋 About Me
 
-Show Image
+Data Analyst with hands-on internship experience building Power BI dashboards, automating recurring reports, and validating multi-source datasets with SQL and Python.
 
 	
 👤 Name	Parashmani Awasthi
@@ -80,7 +80,7 @@ Project	Description	Stack
 
 Show Image
 
-</div>
+<!-- Optional: a snake animation of your contribution graph — widely used, subtle, not gimmicky. Requires a one-time GitHub Action setup (Platane/snk) to generate the SVG. Ask me if you want this set up. <img src="https://raw.githubusercontent.com/awasthi69/awasthi69/output/github-contribution-grid-snake.svg" /> --> </div>
 📫 Connect With Me
 <div align="center">
 
@@ -93,4 +93,4 @@ Show Image Show Image Show Image Show Image
 "Without data, you're just another person with an opinion." — W. Edwards Deming
 
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" /> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" /> </div>
