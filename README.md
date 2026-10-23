@@ -1,23 +1,27 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Parashmani%20Awasthi&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descSize=20&descAlignY=58&fontColor=ffffff" width="100%" alt="header"/>
+
 # 👋 Hey, I'm Parashmani Awasthi
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+into+Useful+Insights;Building+Dashboards+%26+Data+Pipelines;Full-Stack+Developer+%7C+Data+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+into+Useful+Insights;Building+Dashboards+%26+Data+Pipelines;Full-Stack+Developer+%7C+Data+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=awasthi69&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/parashmani-awasthi-95b002375/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:info.parash00@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://parash-portfolio-phi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -25,6 +29,8 @@
 ---
 
 ## 🧑‍💻 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="coding"/>
 
 I'm a **Data Analyst** passionate about transforming raw data into meaningful insights and decision-ready dashboards.
 
@@ -43,6 +49,8 @@ I also enjoy building **full-stack web applications**, allowing me to combine an
 * 🚀 Open to **Relocation / Remote Opportunities**
 
 > **My goal:** Turn data into insights and ideas into useful products.
+
+<br clear="right"/>
 
 ---
 
@@ -127,6 +135,10 @@ I also enjoy building **full-stack web applications**, allowing me to combine an
 
 # 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🍽️ Dine at Door
 
 ### Full-Stack Food Delivery Application
@@ -146,7 +158,8 @@ A full-stack food delivery platform designed to provide a smooth experience for 
 
 > **Dine at Door** demonstrates my ability to combine software development, database concepts, UI design, and problem-solving to build a real-world application.
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 📊 Business Intelligence Dashboard
 
@@ -166,7 +179,13 @@ An end-to-end analytics solution designed to transform multi-source data into me
 * 📊 Developed advanced Excel reporting
 * 📉 Created Pivot Tables and dynamic charts
 
----
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
 
 ## 🎬 Netflix AI-Augmented Recommendation System
 
@@ -182,6 +201,10 @@ A recommendation system designed to provide personalized content recommendations
 * ⚛️ Developed a React.js interface
 * 📊 Worked with user and content data
 * 👥 Developed collaboratively with a **3-person team**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -248,9 +271,8 @@ A recommendation system designed to provide personalized content recommendations
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=awasthi69&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasthi69&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -260,7 +282,17 @@ A recommendation system designed to provide personalized content recommendations
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=awasthi69&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=awasthi69&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -270,7 +302,7 @@ A recommendation system designed to provide personalized content recommendations
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=awasthi69&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -280,7 +312,7 @@ A recommendation system designed to provide personalized content recommendations
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/awasthi69/awasthi69/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
@@ -358,9 +390,11 @@ I'm always open to connecting with **data professionals, recruiters, developers,
 <a href="https://www.linkedin.com/in/parashmani-awasthi-95b002375/">
 <img src="https://img.shields.io/badge/LinkedIn-Parashmani%20Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:info.parash00@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-info.parash00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://parash-portfolio-phi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-parash--portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
@@ -373,10 +407,4 @@ I'm always open to connecting with **data professionals, recruiters, developers,
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
