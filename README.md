@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Parashmani%20Awasthi&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descSize=20&descAlignY=58&fontColor=ffffff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Parashmani%20Awasthi&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=20&descAlignY=58&fontColor=ffffff" width="100%" alt="header"/>
 
 # 👋 Hey, I'm Parashmani Awasthi
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+into+Useful+Insights;Building+Dashboards+%26+Data+Pipelines;Full-Stack+Developer+%7C+Data+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+into+Useful+Insights;Building+Dashboards+%26+Data+Pipelines;Machine+Learning+%7C+Full-Stack+Developer+%7C+Data+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br>
@@ -20,8 +20,8 @@
 <a href="mailto:info.parash00@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://parash-portfolio-phi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.parashmaniawasthi.com.np">
+<img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -32,7 +32,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="coding"/>
 
-I'm a **Data Analyst** passionate about transforming raw data into meaningful insights and decision-ready dashboards.
+I'm an **Aspiring Data Scientist** passionate about transforming raw data into meaningful insights and decision-ready dashboards.
 
 I enjoy working across the complete data journey — from **data cleaning and ETL** to **SQL analysis, data modeling, visualization, and business storytelling**.
 
@@ -40,6 +40,7 @@ I also enjoy building **full-stack web applications**, allowing me to combine an
 
 * 📊 Building interactive **Power BI dashboards**
 * 🐍 Analyzing data with **Python, Pandas & NumPy**
+* 🤖 Exploring **machine-learning** based recommendation systems
 * 🗄️ Writing analytical queries using **SQL & MySQL**
 * 🔄 Designing **ETL pipelines & star-schema data models**
 * 📈 Creating KPI-driven business reports
@@ -88,13 +89,13 @@ I also enjoy building **full-stack web applications**, allowing me to combine an
 
 # 🛠️ Tech Stack
 
-### 📊 Data Analytics & Business Intelligence
+### 🐍 Programming & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### 🗄️ Data & Databases
@@ -106,13 +107,13 @@ I also enjoy building **full-stack web applications**, allowing me to combine an
 <img src="https://img.shields.io/badge/Star%20Schema-Data%20Modeling-blue?style=for-the-badge"/>
 </p>
 
-### 🐍 Programming & Data Science
+### 📊 Data Analytics & Business Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
@@ -137,28 +138,29 @@ I also enjoy building **full-stack web applications**, allowing me to combine an
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-## 🍽️ Dine at Door
+## 🎬 Netflix AI-Augmented Recommendation System
 
-### Full-Stack Food Delivery Application
+### Python · Machine Learning · APIs · React.js
 
-A full-stack food delivery platform designed to provide a smooth experience for users to browse food, manage carts, place orders, and interact with the application.
+A recommendation system designed to provide personalized content recommendations using external movie databases and machine-learning techniques.
 
 **✨ Highlights**
 
-* 🍔 Food and restaurant browsing
-* 🛒 Shopping cart functionality
-* 👤 User account management
-* 📦 Order management
-* 🔗 Frontend & backend integration
-* 🗄️ Database-driven architecture
-* 📱 Responsive application experience
-* ⚡ Full-stack application workflow
-
-> **Dine at Door** demonstrates my ability to combine software development, database concepts, UI design, and problem-solving to build a real-world application.
+* 🤖 Machine-learning based recommendations
+* 🔗 Integrated **TMDb & OMDb APIs**
+* 🐍 Built a Python data pipeline
+* ⚛️ Developed a React.js interface
+* 📊 Worked with user and content data
+* 👥 Developed collaboratively with a **3-person team**
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ## 📊 Business Intelligence Dashboard
@@ -180,27 +182,26 @@ An end-to-end analytics solution designed to transform multi-source data into me
 * 📉 Created Pivot Tables and dynamic charts
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<table>
-<tr>
-<td valign="top">
+## 🍽️ Dine at Door
 
-## 🎬 Netflix AI-Augmented Recommendation System
+### Full-Stack Food Delivery Application
 
-### Python · Machine Learning · APIs · React.js
-
-A recommendation system designed to provide personalized content recommendations using external movie databases and machine-learning techniques.
+A full-stack food delivery platform designed to provide a smooth experience for users to browse food, manage carts, place orders, and interact with the application.
 
 **✨ Highlights**
 
-* 🤖 Machine-learning based recommendations
-* 🔗 Integrated **TMDb & OMDb APIs**
-* 🐍 Built a Python data pipeline
-* ⚛️ Developed a React.js interface
-* 📊 Worked with user and content data
-* 👥 Developed collaboratively with a **3-person team**
+* 🍔 Food and restaurant browsing
+* 🛒 Shopping cart functionality
+* 👤 User account management
+* 📦 Order management
+* 🔗 Frontend & backend integration
+* 🗄️ Database-driven architecture
+* 📱 Responsive application experience
+* ⚡ Full-stack application workflow
+
+> **Dine at Door** demonstrates my ability to combine software development, database concepts, UI design, and problem-solving to build a real-world application.
 
 </td>
 </tr>
@@ -318,15 +319,14 @@ A recommendation system designed to provide personalized content recommendations
 
 ---
 
-# 📈 My Data Analyst Toolkit
+# 🧠 My Data Science Toolkit
 
 ```python
 skills = {
-    "Business Intelligence": [
-        "Power BI",
-        "DAX",
-        "Power Query",
-        "Excel"
+    "Programming & Data Science": [
+        "Python",
+        "Pandas",
+        "NumPy"
     ],
 
     "Data & Databases": [
@@ -336,9 +336,11 @@ skills = {
         "Star Schema"
     ],
 
-    "Python": [
-        "Pandas",
-        "NumPy"
+    "Business Intelligence": [
+        "Power BI",
+        "DAX",
+        "Power Query",
+        "Excel"
     ],
 
     "Web Development": [
@@ -373,7 +375,7 @@ print("Turning data into insights 🚀")
 🐍 Improving      → Python + SQL
 📈 Exploring      → Data Visualization & Business Analytics
 🌐 Developing     → Full-Stack Applications
-🎯 Goal           → Become a High-Impact Data Analyst
+🎯 Goal           → Become a High-Impact Data Scientist
 🚀 Mindset        → Always Learning, Always Building
 ```
 
@@ -393,8 +395,8 @@ I'm always open to connecting with **data professionals, recruiters, developers,
 <a href="mailto:info.parash00@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-info.parash00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://parash-portfolio-phi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-parash--portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.parashmaniawasthi.com.np">
+<img src="https://img.shields.io/badge/Portfolio-parashmaniawasthi.com.np-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
